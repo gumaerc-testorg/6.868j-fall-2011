@@ -2,13 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Question and Answer Session 3'
 uid: 6904d9cf-64fa-0d10-ae72-3bcbedad7e9e
 video_files:
   archive_url: http://www.archive.org/download/MIT6.868JF11/MIT6_868JF11_lec10_300k.mp4
   video_captions_file: null
-  video_thumbnail_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/EXXZQjo3twk/default.jpg
   video_transcript_file: null
 video_metadata:
   youtube_id: EXXZQjo3twk

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, students discuss the introduction to The Emotion Machine, expectations and overview of the class, and general understanding of emotions, consciousness, and intelligence.
 
 **Instructor:** Marvin Minsky
+
+
+

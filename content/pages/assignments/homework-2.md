@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the second homework assignment of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,4 +23,4 @@ uid: 50ec747c-b4d2-5240-f690-ee42c2cc5dda
 
 {{< sup "1" >}}Also see: Minsky, Marvin. "[Jokes and Their Relation to the Cognitive Unconscious](http://web.media.mit.edu/~minsky/papers/jokes.cognitive.txt)." _AI Memo_ no. 603. November, 1980.
 
-[« Back to assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" %}}

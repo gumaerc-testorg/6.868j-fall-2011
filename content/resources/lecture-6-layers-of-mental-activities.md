@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, students discuss Barry Schwartz's 2000 piece on the psychology of hope. They also look at ethical dilemmas for positive psychology, and who has the right to meddle with top-level goals or induce happiness.
 
 **Instructor:** Marvin Minsky
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains an optional homework assignment for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,6 +45,6 @@ Take a look at the ﬁrst 500 entries in the [OpenMind](http://p2pfoundation.net
 
 {{< sup "3" >}}For example, they share some of the same objects, properties or relations.
 
-{{< sup "4" >}}If you don't understand these terms, see: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Sowa, John. ["The Challenge of Knowledge Soup" (PDF)](http://www.jfsowa.com/pubs/challenge.pdf). _jfsowa.com_. Explain any additional missing background knowledge that was relevant to your inference.
+{{< sup "4" >}}If you don't understand these terms, see: Sowa, John. ["The Challenge of Knowledge Soup" (PDF)](http://www.jfsowa.com/pubs/challenge.pdf). _jfsowa.com_. Explain any additional missing background knowledge that was relevant to your inference.
 
-[« Back to assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" %}}

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 p>**Description:** In this lecture, students discuss the course as a whole, the ideas covered, and thoughts on the mind, emotions, and artificial intelligence.
 
 **Instructor:** Marvin Minsky
+
+
+

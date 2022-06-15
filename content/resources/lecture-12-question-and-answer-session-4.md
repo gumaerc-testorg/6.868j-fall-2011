@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 9 of _The Emotion Machine_, questioning philosophical notions of selfhood, boundaries, models, and outlying cases.
 
 **Instructor:** Marvin Minsky
+
+
+

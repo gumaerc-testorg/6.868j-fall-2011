@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, students discussion what drives people to act and where they acquire their goals. Students are introduced to the idea of the top level goal: thrive.
 
 **Instructor:** Marvin Minsky
+
+
+

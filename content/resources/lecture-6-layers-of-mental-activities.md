@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Layers of Mental Activities'
 uid: 7120c726-037d-9233-986c-5dbe3634de3d
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Barry Schwartz's 2000 piece on the psychology of hope. They also look at ethical dilemmas for positive psychology, and who has the right to meddle with top-level goals or induce happiness.
 
 **Instructor:** Marvin Minsky
+

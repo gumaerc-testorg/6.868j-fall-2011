@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Question and Answer Session 4'
 uid: e7d4fba0-e6d5-c064-b118-16af4c9d0e86
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 9 of _The Emotion Machine_, questioning philosophical notions of selfhood, boundaries, models, and outlying cases.
 
 **Instructor:** Marvin Minsky
+

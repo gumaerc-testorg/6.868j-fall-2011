@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Layered Knowledge Representations'
 uid: 500126b8-00ee-734b-f885-f709f6732c7e
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students discuss the nature of consciousness, asking what it is, and then asking whether the question is well founded.
 
 **Instructor:** Marvin Minsky
+

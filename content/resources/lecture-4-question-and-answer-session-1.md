@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Question and Answer Session 1'
 uid: 56fd4104-78ad-3731-b6fc-46136dd43734
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 **Description:** In this lecture, students discussion what drives people to act and where they acquire their goals. Students are introduced to the idea of the top level goal: thrive.
 
 **Instructor:** Marvin Minsky
+

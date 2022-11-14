@@ -15,3 +15,23 @@ leftnav:
   name: Video Lectures
   url: /video_galleries/video-lectures
   weight: 40
+- identifier: e43ad7aa-9a02-706e-d917-8263163c9193
+  name: Homework 1
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  url: /pages/assignments/homework-1
+  weight: 10
+- identifier: 50ec747c-b4d2-5240-f690-ee42c2cc5dda
+  name: Homework 2
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  url: /pages/assignments/homework-2
+  weight: 20
+- identifier: b9b30550-fa5b-1e51-c0e5-3cf49d633f2f
+  name: Homework 3
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  url: /pages/assignments/homework-3
+  weight: 30
+- identifier: 21284ffb-4089-530a-be3b-2495efa9ffa3
+  name: Final Project
+  parent: 4d182964-96d8-6a26-f8f1-e97fd030b967
+  url: /pages/assignments/final-project
+  weight: 40

@@ -21,6 +21,6 @@ uid: 50ec747c-b4d2-5240-f690-ee42c2cc5dda
 
 **Problem 5.** Give three examples situations where you could use _emotional exploitation_.
 
-{{< sup "1" >}}Also see: Minsky, Marvin. "[Jokes and Their Relation to the Cognitive Unconscious](http://web.media.mit.edu/~minsky/papers/jokes.cognitive.txt)." _AI Memo_ no. 603. November, 1980.
+{{< sup "1" >}}Also see: Minsky, Marvin. "{{% resource_link "a6aca3fe-fdd7-4f61-b130-53d7f993321a" "Jokes and Their Relation to the Cognitive Unconscious" %}}." _AI Memo_ no. 603. November, 1980.
 
 {{% resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" %}}
